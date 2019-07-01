@@ -1,2 +1,0 @@
-name1,9876543210,name1_123@gmail.com
-name2,8909761234,wdfesdfg@hmol.com
